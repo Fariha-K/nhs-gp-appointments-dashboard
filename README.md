@@ -130,7 +130,7 @@ With access to additional data and tools, this analysis could be extended to inc
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Cleaning and validating large NHS operational datasets
 - Building multi-dimensional PivotTable models to aggregate millions of records
@@ -163,7 +163,7 @@ nhs-gp-appointments-dashboard/
 
 ---
 
-## 📦 Data Source
+##  Data Source
 
 NHS England GP Appointments Data — publicly available at:
 https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice
